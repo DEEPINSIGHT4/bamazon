@@ -1,1 +1,2 @@
 # bamazon
+inspired from Amazon.
